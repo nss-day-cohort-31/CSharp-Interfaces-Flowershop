@@ -24,7 +24,6 @@ namespace MyFlowerShop
 
             Console.WriteLine(aRose);
 
-            FlowerShop shop = new FlowerShop();
             if (shop.Roses == null) {
                 Console.WriteLine(
                     "You didn't make a new list!"
