@@ -1,0 +1,11 @@
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/bin/Debug/netcoreapp2.2/MyFlowerShop.deps.json
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/bin/Debug/netcoreapp2.2/MyFlowerShop.runtimeconfig.json
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/bin/Debug/netcoreapp2.2/MyFlowerShop.runtimeconfig.dev.json
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/bin/Debug/netcoreapp2.2/MyFlowerShop.dll
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/bin/Debug/netcoreapp2.2/MyFlowerShop.pdb
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.csprojAssemblyReference.cache
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.csproj.CoreCompileInputs.cache
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.AssemblyInfoInputs.cache
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.AssemblyInfo.cs
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.dll
+/home/tgwtg/programming/nss/cohort31/MyFlowerShop/obj/Debug/netcoreapp2.2/MyFlowerShop.pdb
